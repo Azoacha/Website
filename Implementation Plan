@@ -1,0 +1,63 @@
+Implementation Plan
+
+-------------------------------------------------------DOMAIN NAME--------------------------------------------------------
+Select a good domain name and find a good seller.
+Options:
+	-godaddy.com
+	-domainmonster.com 
+	-IST Waterloo (https://uwaterloo.ca/information-systems-technology/services/domain-name-and-ip-management) [check if students can get for free]
+
+--------------------------------------------------------WEB HOST----------------------------------------------------------
+Select a good web-hosting service.
+Options:
+	-Free for CS students: https://www.student.cs.uwaterloo.ca/~Quest-ID
+	-Github Pages
+	-Bluehost: $3.49/mth
+Further details:
+	-https://cs.uwaterloo.ca/cscf/howto/newusers
+	-https://uwaterloo.ca/information-systems-technology/services/web-courses-and-resources
+
+----------------------------------------------------WEB PAGE DETAILS------------------------------------------------------
+1. Homepage
+	- Black/dark grey background (could be image of something), gold styling and font
+	- Name in very large font at top-center
+	- Symmetric pattern on left and right
+	- Quote/Short description of myself under name in smaller font (half size of name?)
+	- Buttons that link to other pages (sections of website?)
+		*Github/Projects
+		*Resume
+		*About Me
+		*Contact Me
+	- Image/icon links to social media sites
+		*Facebook
+		*Linkedin
+		*Email("mailto:" link)
+		*etc. (Devpost?)
+2. Github/Projects
+	- Direct link to Github
+	- Open in new tab
+3. Resume
+	- Technologies/skills
+		*In percentages showing experience
+		*Filled up circles or bars?
+	- Experience
+		*In chronological order
+	- If bars for skills, put experience/education side-by-side with skills
+	  If circles, put experience/education underneath skills
+4. About me
+	- Picture of myself in circle in top-center below words "About Me"
+	/** Figure out what else to put on this page. **/
+5. Contact me
+	- Short text along the lines of "I love to chat with others and make connections...Feel free to send me a message!"
+	- Under text, place contact form
+		*Name: First and last name fields (Name is main title, "First Name", "Last Name" are titles under the input area) [Text field]; both required]
+		*Email address [Text field; required]
+		*Subject [Dropdown menu with optional Text field; required]
+			--Please select a subject...
+			--Just saying hi!
+			--I have a project for you to work on.
+			--I'm having problems viewing/navigating your site.
+			--I have suggestions for your site.
+			--Other [selection opens a Text field below]
+		*Comment [Large, resizeable text field; required]
+		*Send button to submit form
